@@ -1,4 +1,4 @@
-![Cover](./.github/cover.png)
+![image](https://github.com/joaorodrigues2012/polls_in_nodejs/assets/37009151/b60840df-5e24-4bbe-a1e6-672bd5ec6ce6)
 
 # Polls (Node.js)
 
